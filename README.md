@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0912-sort-an-array) |
+| [1656-design-an-ordered-stream](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1656-design-an-ordered-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0217-contains-duplicate) |
+| [1656-design-an-ordered-stream](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1656-design-an-ordered-stream) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1656-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0933-number-of-recent-calls) |
+| [1656-design-an-ordered-stream](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1656-design-an-ordered-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
