@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
