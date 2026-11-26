@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
