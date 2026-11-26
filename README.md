@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
