@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/shambhawisingh04-crypto/exleetcode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
